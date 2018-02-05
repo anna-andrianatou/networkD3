@@ -4,7 +4,7 @@ Version 0.2.13
 
 This intention of this fork is to allow compatibility between networkD3 and package's like chorddiag which have not updated to d3v4. This fork simply holds a version of networkD3 which uses d3v3.
 
-The collision between versions of d3 has been known to cause issues with rendering both networkD3 and package's dependent on d3v3.
+The collision between versions of d3 has been known to cause issues with rendering both the version of networkD3 that is dependent on d3v4 and package's dependent on d3v3.
 
 This README includes information on set up and a number of basic examples.
 For more information see the package's [main page](http://christophergandrud.github.io/networkD3/).
